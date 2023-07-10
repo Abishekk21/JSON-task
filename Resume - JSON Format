@@ -1,0 +1,55 @@
+let myResume={
+    "basics": {
+      "name": "Abishek K",
+      "email": "abishekkarunamoorthi@gmail.com",
+      "phone": 9876543210,
+      "degree": "B.E",
+      "location": {
+        "address": "1/27, Mahalliamman Kovil Street, V. Kaliyapuram, Pollachi",
+        "postalCode": 642129,
+        "city": "Coimbatore",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/in/abishek-k-10a692224/",
+          "github":"https://github.com/Abishekk21",
+        }
+      ]
+    },
+    "work experience": [
+      {
+       "Fresher"
+      },
+    ],
+    "education": [
+      {
+        "institution": "SVS College of Engineering",
+        "department": "Electronics and Communication Engineering",
+        "studyType": "fulltime",
+        "batch start year": 2018,
+        "batch end year": 2022,
+        "gpa": 8.5,
+      }
+    ],
+    "skills": [
+      {
+        "title": "C++, HTML, CSS, Javascript",
+        "level": "beginner",
+        
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil, English, Malayalam",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Developing or Testing",
+      }
+    ]
+  }
+  console.log(myResume);
+  
